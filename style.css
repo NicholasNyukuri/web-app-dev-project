@@ -1,6 +1,6 @@
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: garamond, serif;
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
@@ -21,7 +21,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #ff9800;
+    color: #0699fb;
 }
 
 
@@ -49,4 +49,7 @@ img {
     margin: 20px auto;
     width: 80%;
     box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+}
+h1, h2, h3, h4, h5, h6 {
+    text-decoration: underline;
 }
